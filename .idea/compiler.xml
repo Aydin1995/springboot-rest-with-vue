@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aydinrest.main" target="1.8" />
+      <module name="aydinrest.test" target="1.8" />
+      <module name="vuetest.sarafantest.main" target="1.8" />
+      <module name="vuetest.sarafantest.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
