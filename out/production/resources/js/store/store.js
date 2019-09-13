@@ -88,7 +88,7 @@ export default new Vuex.Store({
             state.messages=Object.values(targetMessages)
         },
         updateTotalPagesMutation(state,totalPages){
-            console.log(totalPages,"updatetotalpages")
+
 state.totalPages=totalPages
         },
         updateCurrentPageMutation(state,currentPage){
@@ -132,7 +132,7 @@ state.totalPages=totalPages
             commit('addCommentMutation', data)
         },
         async loadPageAction({commit,state}){
-            console.log(state.currentPage+1,"statecurrentpage")
+
 const response= await messagesApi.page(state.currentPage+1)
             const data= await response.json()
 
