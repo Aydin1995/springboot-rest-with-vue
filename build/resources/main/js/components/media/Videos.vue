@@ -14,6 +14,7 @@
         props:['src'],
         computed:{
             targetSrc(){
+
                 if(this.src.includes("youtube")) {
                const subs  =     this.src.substring(this.src.indexOf("=")+1);
                     this.src = "https://youtu.be/" + subs;

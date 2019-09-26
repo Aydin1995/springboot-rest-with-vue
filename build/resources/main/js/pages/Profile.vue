@@ -43,7 +43,7 @@
         },
         computed: {
             isMyProfile() {
-                console.log( this.$route.params.id + " slucaynost ");
+
 
                 return !this.$route.params.id ||
                     this.$route.params.id === this.$store.state.profile.id
@@ -57,7 +57,7 @@
         },
         watch: {
             '$route'() {
-                console.log(this.$route.params.id + "console.log");
+
                 this.updateProfile()
             }
         },
@@ -68,7 +68,7 @@
             },
             async updateProfile() {
                 const id = this.$route.params.id || this.$store.state.profile.id
-                console.log(this.$route.params.id);
+
                 const data = await profileApi.get(id)
                 this.profile = await data.json()
                 this.$forceUpdate()

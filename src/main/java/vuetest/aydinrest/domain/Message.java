@@ -22,6 +22,8 @@ public class Message {
     @Column(length = 1000)
     @JsonView(Views.IdName.class)
     private String text;
+    @JsonView(Views.IdName.class)
+    private String file;
 
     @Column(updatable = false)
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "yyyy-MM-dd HH:mm:ss")
@@ -40,11 +42,14 @@ public class Message {
     @JsonView(Views.FullMessage.class)
     private String link;
     @JsonView(Views.FullMessage.class)
+    private String type;
+    @JsonView(Views.FullMessage.class)
     private String linkTitle;
     @JsonView(Views.FullMessage.class)
     private String linkDescription;
     @JsonView(Views.FullMessage.class)
     private String linkCover;
+
 
 
     public Long getId() {
@@ -59,8 +64,17 @@ public class Message {
         return text;
     }
 
+
     public void setText(String text) {
         this.text = text;
+    }
+
+    public String getFile() {
+        return file;
+    }
+
+    public void setFile(String file) {
+        this.file = file;
     }
 
     public LocalDateTime getCreationDate() {
@@ -117,5 +131,13 @@ public class Message {
 
     public void setLinkCover(String linkCover) {
         this.linkCover = linkCover;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setType(String type) {
+        this.type = type;
     }
 }

@@ -2,7 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31ebc681-291c-4323-9bb5-f46203e84b04" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d5a9d0dd-4d28-4691-adb1-36a935088cfc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d5a9d0dd-4d28-4691-adb1-36a935088cfc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d5a9d0dd-4d28-4691-adb1-36a935088cfc/storage_v2/_src_/database/sarafantest.iKbhlA/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d5a9d0dd-4d28-4691-adb1-36a935088cfc/storage_v2/_src_/database/sarafantest.iKbhlA/schema/public.abK9xQ.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/aydinrest.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/aydinrest.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/aydinrest-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/content-v2/sha512/2e/67/6b1f43ea09bfc01bf3dc49e446f69aa90ae059bd10866fab008d0c1c79863e5dd5a111f68884a9492014610004ff957028f2ab9a244c0842f8bc04b4b557" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/uglifyjs-webpack-plugin/index-v5/f0/a6/bf77794cd61f2c39884323d14e9c25516d5410ad98bc0af73620b8711f1b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/compression/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/compression/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/compression/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/compression/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-brackets/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/finalhandler/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/portfinder/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/portfinder/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/portfinder/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/portfinder/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serve-index/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/snapdragon/node_modules/ms/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/snapdragon/node_modules/ms/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/snapdragon/node_modules/ms/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/snapdragon/node_modules/ms/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/vuetest/aydinrest/controller/MessageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/vuetest/aydinrest/controller/MessageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/vuetest/aydinrest/domain/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/vuetest/aydinrest/domain/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/js/api/messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/js/api/messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/js/components/media/Media.vue" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/js/components/media/Media.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/js/components/media/Videos.vue" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/js/components/media/Videos.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/js/components/messages/MessageForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/js/components/messages/MessageForm.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/js/components/messages/MessageRow.vue" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/js/components/messages/MessageRow.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/js/pages/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/js/pages/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/js/pages/MessageList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/js/pages/MessageList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/js/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/js/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vuetest/aydinrest/controller/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vuetest/aydinrest/controller/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vuetest/aydinrest/domain/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vuetest/aydinrest/domain/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/js/api/messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/api/messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/js/components/media/Media.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/components/media/Media.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/js/components/media/Videos.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/components/media/Videos.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/js/components/messages/MessageForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/components/messages/MessageForm.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/js/components/messages/MessageRow.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/components/messages/MessageRow.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/js/pages/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/pages/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/js/pages/MessageList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/pages/MessageList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/js/store/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/js/store/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -64,6 +137,16 @@
         <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
         <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="sarafantest@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="sarafantest: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="message: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
     </expand>
     <select />
   </component>
@@ -78,38 +161,53 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/controller/MessageController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            <state relative-caret-position="393">
+              <caret line="195" selection-start-line="195" selection-end-line="195" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#6954#6955#0" expanded="true" />
+                <element signature="e#7017#7018#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradlew">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradlew.bat">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/domain/Message.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="69" lean-forward="true" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+            <state relative-caret-position="1076">
+              <caret line="135" column="29" selection-start-line="135" selection-start-column="29" selection-end-line="135" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1693#1694#0" expanded="true" />
+                <element signature="e#1720#1721#0" expanded="true" />
+                <element signature="e#3055#3056#0" expanded="true" />
+                <element signature="e#3095#3096#0" expanded="true" />
+                <element signature="e#3127#3128#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/js/components/media/Media.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+            <state relative-caret-position="51">
+              <caret line="3" column="88" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/js/store/store.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="136" selection-start-line="136" selection-end-line="136" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,7 +215,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="das://d5a9d0dd-4d28-4691-adb1-36a935088cfc/database/sarafantest/schema/public/table/message">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state projectRestartId="2868faf9-3c50-4608-9c93-8a81fb175af4">
+            <state projectRestartId="056c92d0-bd36-4884-8bd4-55d50614bb68">
               <filtering>
                 <filter text="" />
               </filtering>
@@ -126,39 +224,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/js/components/messages/MessageForm.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/js/pages/Profile.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="70" selection-start-line="70" selection-end-line="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/webpack-cli/bin/cli.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4131">
-              <caret line="243" selection-start-line="243" selection-end-line="243" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/controller/MainController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+            <state relative-caret-position="272">
+              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="38" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#v-layout#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/js/components/messages/MessageRow.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+              <folding>
+                <element signature="e#857#890#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_gitignore.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="89">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/js/pages/MessageList.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <folding>
+                <element signature="e#479#512#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -172,8 +285,8 @@
         <option value="Enum" />
         <option value="JavaScript File" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="Vue Single File Component" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -189,16 +302,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/vuetest/sarafantest/domain/Views.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/static/js/main.js" />
-        <option value="$PROJECT_DIR$/src/main/java/vuetest/sarafantest/repo/UserDetailsRepo.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/static/js/components/comment/CommentItem.vue" />
-        <option value="$PROJECT_DIR$/src/main/resources/static/js/components/messages/MessageRow.vue" />
-        <option value="$PROJECT_DIR$/src/main/java/vuetest/sarafantest/service/CommentService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vuetest/sarafantest/util/WsSender.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/static/js/components/UserLink.vue" />
-        <option value="$PROJECT_DIR$/src/main/java/vuetest/sarafantest/domain/UserSubscriptionId.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vuetest/sarafantest/domain/UserSubscription.java" />
         <option value="$PROJECT_DIR$/src/main/java/vuetest/sarafantest/domain/User.java" />
         <option value="$PROJECT_DIR$/src/main/java/vuetest/sarafantest/repo/CommentRepo.java" />
         <option value="$PROJECT_DIR$/src/main/java/vuetest/sarafantest/repo/MessageRepo.java" />
@@ -222,24 +325,34 @@
         <option value="$PROJECT_DIR$/src/main/resources/static/js/router/router.js" />
         <option value="$PROJECT_DIR$/src/main/resources/static/js/pages/AllUsers.vue" />
         <option value="$PROJECT_DIR$/src/main/resources/static/js/components/LazyLoader.vue" />
-        <option value="$PROJECT_DIR$/src/main/java/vuetest/aydinrest/domain/Message.java" />
         <option value="$PROJECT_DIR$/src/main/resources/static/js/store/store.js" />
         <option value="$PROJECT_DIR$/src/main/java/vuetest/aydinrest/util/WsSender.java" />
         <option value="$PROJECT_DIR$/src/main/java/vuetest/aydinrest/service/MessageService.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/src/main/resources/static/js/pages/App.vue" />
-        <option value="$PROJECT_DIR$/src/main/java/vuetest/aydinrest/controller/MessageController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/static/js/components/media/Media.vue" />
         <option value="$PROJECT_DIR$/src/main/resources/static/js/components/media/Videos.vue" />
         <option value="$PROJECT_DIR$/webpack.dev.js" />
         <option value="$PROJECT_DIR$/webpack.common.js" />
         <option value="$PROJECT_DIR$/src/main/java/vuetest/aydinrest/controller/MainController.java" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/webpack.prod.js" />
-        <option value="$PROJECT_DIR$/src/main/resources/js/store/store.js" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/resources/js/pages/Profile.vue" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/main.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/pages/App.vue" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/vuetest/aydinrest/config/MvcConfig.java" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/api/messages.js" />
+        <option value="$PROJECT_DIR$/src/main/java/vuetest/aydinrest/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/components/messages/MessageForm.vue" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/components/media/Videos.vue" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/pages/MessageList.vue" />
+        <option value="$PROJECT_DIR$/src/main/java/vuetest/aydinrest/domain/Message.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/components/media/Media.vue" />
+        <option value="$PROJECT_DIR$/src/main/java/vuetest/aydinrest/controller/MessageController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/store/store.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/js/components/messages/MessageRow.vue" />
       </list>
     </option>
   </component>
@@ -267,6 +380,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,12 +403,6 @@
             <path>
               <item name="aydinrest" type="b2602c69:ProjectViewProjectNode" />
               <item name="sarafantest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aydinrest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarafantest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -301,30 +410,6 @@
               <item name="sarafantest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="aydinrest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarafantest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aydinrest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarafantest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="aydinrest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aydinrest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarafantest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="aydinrest" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aydinrest" type="b2602c69:ProjectViewProjectNode" />
@@ -348,63 +433,11 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aydinrest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarafantest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="comment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aydinrest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarafantest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aydinrest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sarafantest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aydinrest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-            <path>
-              <item name="aydinrest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-            </path>
-            <path>
-              <item name="aydinrest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
-            </path>
-            <path>
-              <item name="aydinrest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
-              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
-              <item name="data" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -425,34 +458,35 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563292952263" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\sarafantest\src\main\resources\js" />
-      <recent name="E:\sarafantest\src\main\resources\prod" />
-      <recent name="E:\sarafantest\src\main\resources\static\js\components.messages" />
-      <recent name="E:\sarafantest\src\main\resources\static\js\components\" />
-      <recent name="E:\sarafantest\src\main\resources\static\js\components" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="vuetest.sarafantest.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\aydin\Downloads\sarafantest\src\main\resources\static\js" />
       <recent name="C:\Users\aydin\Downloads\sarafantest\src\main\java\vuetest\sarafantest" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="vuetest.aydinrest.config" />
       <recent name="vuetest.sarafantest.repo" />
       <recent name="vuetest.sarafantest.domain" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="vuetest.sarafantest.service" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\sarafantest\uploads" />
+      <recent name="E:\sarafantest\src\main\resources\js" />
+      <recent name="E:\sarafantest\src\main\resources\prod" />
+      <recent name="E:\sarafantest\src\main\resources\static\js\components.messages" />
+      <recent name="E:\sarafantest\src\main\resources\static\js\components\" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -567,18 +601,33 @@
       <workItem from="1568213395442" duration="9922000" />
       <workItem from="1568282137547" duration="12056000" />
       <workItem from="1568294686260" duration="989000" />
-      <workItem from="1568363944531" duration="2094000" />
+      <workItem from="1568363944531" duration="3036000" />
+      <workItem from="1568385531476" duration="52000" />
+      <workItem from="1568385642990" duration="2157000" />
+      <workItem from="1568453581890" duration="619000" />
+      <workItem from="1568461159914" duration="655000" />
+      <workItem from="1568462645920" duration="67000" />
+      <workItem from="1568647315364" duration="3567000" />
+      <workItem from="1568711434165" duration="3380000" />
+      <workItem from="1568885180971" duration="12606000" />
+      <workItem from="1569053310375" duration="7916000" />
+      <workItem from="1569141672487" duration="13806000" />
+      <workItem from="1569172647128" duration="2114000" />
+      <workItem from="1569231546254" duration="10187000" />
+      <workItem from="1569312735749" duration="13504000" />
+      <workItem from="1569427014203" duration="3179000" />
+      <workItem from="1569435429973" duration="3638000" />
+      <workItem from="1569490103113" duration="9983000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="327585000" />
+    <option name="totallyTimeSpent" value="415957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21482602" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4107413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -588,7 +637,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.4942717" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.4942717" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -596,14 +645,14 @@
       <window_info anchor="bottom" id="Build" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Console" order="9" weight="0.3289689" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.81178397" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50075644" side_tool="true" weight="0.39934534" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.3289689" />
-      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3289689" />
-      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="16" />
-      <window_info anchor="bottom" id="TypeScript" order="17" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.39934534" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.3289689" />
+      <window_info anchor="bottom" id="TypeScript" order="16" />
+      <window_info anchor="bottom" id="Terminal" order="17" sideWeight="0.49924356" visible="true" weight="0.64648116" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Gradle" order="2" />
@@ -621,138 +670,16 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/components/comment/CommentItem.vue" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/components/messages/MessageForm.vue" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/pages/Auth.vue" />
-    <entry file="file://$PROJECT_DIR$/node_modules/vuex/types/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="116" column="2" selection-start-line="116" selection-start-column="2" selection-end-line="116" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/embed.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="438" column="16" selection-start-line="438" selection-start-column="16" selection-end-line="438" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://d5a9d0dd-4d28-4691-adb1-36a935088cfc/database/sarafantest/schema/public/table/spring_session">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="edcbd709-481f-4a01-9230-102260206d36">
-          <filtering />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/pages/Subscriptions.vue" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.1.9.RELEASE/734111754bd8be5277a0be4f357479ee8e1c14e9/spring-data-commons-2.1.9.RELEASE-sources.jar!/org/springframework/data/web/PageableDefault.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/components/LazyLoader.vue" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/store/store.js" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/controller/ProfileController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="57" column="43" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/dto/ObjectType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/repo/UserSubRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/dto/EventType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/dto/MetaDto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/dto/WsEventDto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/util/WsSender.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="40" column="61" lean-forward="true" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/repo/MessageRepo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/domain/Comment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/domain/Message.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/domain/UserSub.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://d5a9d0dd-4d28-4691-adb1-36a935088cfc/database/sarafantest/schema/public/table/user_subscription">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="f2b96d39-808e-49db-a030-8f2223f327a3">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/dto/MessagePageDto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="289">
           <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -760,87 +687,154 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/webpack-cli/bin/cli.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4131">
+          <caret line="243" selection-start-line="243" selection-end-line="243" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-router/types/router.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-router/src/install.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="37" column="39" lean-forward="true" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/components/comment/CommentList.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="das://d5a9d0dd-4d28-4691-adb1-36a935088cfc/database/sarafantest/schema/public/table/usr">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="f2b96d39-808e-49db-a030-8f2223f327a3">
+        <state projectRestartId="2fd0ae91-5b7a-40a0-b50e-4331a5ae3789">
           <filtering>
             <filter text="" />
           </filtering>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/service/MessageService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/pages/Auth.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/pages/AllUsers.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/pages/Profile.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="44" column="34" lean-forward="true" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+        <state relative-caret-position="170">
+          <caret line="16" column="90" lean-forward="true" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/config/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/config/MvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/pages/App.vue" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/pages/MessageList.vue" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/components/messages/MessageRow.vue" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/components/media/Media.vue" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/controller/MessageController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/domain/Views.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="145" column="49" lean-forward="true" selection-start-line="145" selection-start-column="14" selection-end-line="145" selection-end-column="49" />
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/controller/ProfileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="57" column="43" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5938#5939#0" expanded="true" />
-            <element signature="e#6001#6002#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/components/media/Videos.vue" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/prod.js" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/js/components/media/Media.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/js/components/media/Videos.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_gitignore.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/router/router.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/js/components/comment/CommentForm.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/js/store/store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2227">
-          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        <state>
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.dev.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-resource/dist/vue-resource.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="195">
+          <caret line="1500" column="8" selection-start-line="1500" selection-start-column="8" selection-end-line="1500" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.common.js">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/pages/App.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="29" />
+        <state relative-caret-position="391">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="33" />
+          <folding>
+            <element signature="e#1008#1064#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-resource/types/vue_resource.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="4" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/api/comment.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/api/resource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/axios/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="135" column="2" selection-start-line="135" selection-start-column="2" selection-end-line="135" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -848,13 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/webpack-cli/bin/cli.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4131">
-          <caret line="243" selection-start-line="243" selection-end-line="243" />
         </state>
       </provider>
     </entry>
@@ -868,53 +855,187 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-resource/types/vue.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/webpack/lib/util/SortableSet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.1.6.RELEASE/cd87ebca4cb4f40ace39540e119173a3922933be/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5610">
+          <caret line="466" column="44" selection-start-line="466" selection-start-column="44" selection-end-line="466" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/components/comment/CommentForm.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/controller/Controller.java" />
+    <entry file="file://$PROJECT_DIR$/node_modules/webpack/lib/dependencies/HarmonyImportDependency.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vuex/types/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="112" column="2" selection-start-line="112" selection-start-column="2" selection-end-line="112" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/components/LazyLoader.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/pages/Subscriptions.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/components/UserLink.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/api/profile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/api/messages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/components/media/Videos.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/pages/MessageList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding>
+            <element signature="e#479#512#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/components/messages/MessageForm.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#v-layout#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/domain/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1076">
+          <caret line="135" column="29" selection-start-line="135" selection-start-column="29" selection-end-line="135" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1693#1694#0" expanded="true" />
+            <element signature="e#1720#1721#0" expanded="true" />
+            <element signature="e#3055#3056#0" expanded="true" />
+            <element signature="e#3095#3096#0" expanded="true" />
+            <element signature="e#3127#3128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="das://d5a9d0dd-4d28-4691-adb1-36a935088cfc/database/sarafantest/schema/public/table/message">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="2868faf9-3c50-4608-9c93-8a81fb175af4">
+        <state projectRestartId="056c92d0-bd36-4884-8bd4-55d50614bb68">
           <filtering>
             <filter text="" />
           </filtering>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/src/main/java/vuetest/aydinrest/controller/MessageController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        <state relative-caret-position="393">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6954#6955#0" expanded="true" />
+            <element signature="e#7017#7018#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/store/store.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        <state relative-caret-position="833">
+          <caret line="136" selection-start-line="136" selection-end-line="136" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradlew.bat">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/components/media/Media.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="51">
+          <caret line="3" column="88" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="88" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/js/pages/Profile.vue">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/js/components/messages/MessageRow.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="56">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="e#857#890#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1315" column="19559" selection-start-line="1315" selection-start-column="19559" selection-end-line="1315" selection-end-column="19559" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="69" lean-forward="true" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+        <state relative-caret-position="470">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_gitignore.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>

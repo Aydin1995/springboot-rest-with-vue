@@ -5,11 +5,15 @@
                     :user="message.author"
                     size="48"
             ></user-link>
+
             <div class="pt-3">
                 {{ message.text }}
             </div>
+
+            <v-img v-if="imageUrl" :src="`/img/${imageUrl}`" width="50%" height="50%" ></v-img>
+
         </v-card-text>
-        <media v-if="message.link" :message="message"></media>
+        <media v-if="message.link" :message="message" ></media>
         <v-card-actions>
             <v-btn value="Edit" @click="edit" small flat round>Edit</v-btn>
             <v-btn icon @click="del" small>
@@ -29,7 +33,7 @@
     import CommentList from '../comment/CommentList.vue'
     import UserLink from 'components/UserLink.vue'
     export default {
-        props: ['message', 'editMessage'],
+        props: ['message', 'editMessage','imageUrl'],
         components: {UserLink, CommentList, Media },
         methods: {
             ...mapActions(['removeMessageAction']),

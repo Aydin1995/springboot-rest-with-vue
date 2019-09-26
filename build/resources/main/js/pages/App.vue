@@ -39,6 +39,7 @@
 
 
         computed: mapState(['profile','messages']),
+
         methods: {
             ...mapMutations(['addMessageMutation',
                 'updateMessageMutation',
@@ -53,9 +54,7 @@
             },
             allusers(){
                 this.$router.push('/allusers')
-            }
-
-
+            },
 
 
         },
@@ -90,12 +89,18 @@
             })
         },
         beforeMount() {
+
             if (!this.profile) {
                 this.$router.replace('/auth')
             }
-        }
+        },
+
+
+
     }
 </script>
+
+
 
 <style scoped>
 

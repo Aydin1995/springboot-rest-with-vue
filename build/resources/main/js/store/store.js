@@ -3,6 +3,8 @@ import Vuex from 'vuex'
 import messagesApi from 'api/messages'
 import commentApi from 'api/comment'
 
+
+
 Vue.use(Vuex)
 
 export default new Vuex.Store({
@@ -88,7 +90,7 @@ export default new Vuex.Store({
             state.messages=Object.values(targetMessages)
         },
         updateTotalPagesMutation(state,totalPages){
-            console.log(totalPages,"updatetotalpages")
+
 state.totalPages=totalPages
         },
         updateCurrentPageMutation(state,currentPage){
@@ -97,8 +99,38 @@ state.totalPages=totalPages
     },
     actions: {
         async addMessageAction({commit, state}, message) {
-            const result = await messagesApi.add(message)
-            const data = await result.json()
+// let data;
+//
+            console.log(message.file);
+
+
+            let formData = new FormData();
+           formData.append('file', message.file);
+           formData.append('text', message.message.text);
+
+
+//
+const result=await Vue.resource('/message').save(formData)
+            const data =await result.json();
+
+//
+//             // formData.append('id',message.id)
+//             // formData.append('text',message.text)
+//          axios.post( '/hello',
+//
+//                 formData,
+//
+//              {
+//                  headers: {
+//                      'Content-Type': 'multipart/form-data'
+//                  }
+//              }
+//             )
+
+            // const result = await messagesApi.add(formData)
+            // const data = await result.json()
+
+
             const index = state.messages.findIndex(item => item.id === data.id)
 
             if (index > -1) {
@@ -106,11 +138,12 @@ state.totalPages=totalPages
                 commit('updateMessageMutation', data)
             } else {
 
+
                 commit('addMessageMutation', data)
             }
         },
         async updateMessageAction({commit}, message) {
-            const result = await messagesApi.update(message)
+            const result = await messagesApi.update(message.message)
             const data = await result.json()
             commit('updateMessageMutation', data)
         },
@@ -132,7 +165,7 @@ state.totalPages=totalPages
             commit('addCommentMutation', data)
         },
         async loadPageAction({commit,state}){
-            console.log(state.currentPage+1,"statecurrentpage")
+
 const response= await messagesApi.page(state.currentPage+1)
             const data= await response.json()
 

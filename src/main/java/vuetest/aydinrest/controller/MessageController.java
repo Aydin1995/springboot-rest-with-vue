@@ -1,6 +1,7 @@
 package vuetest.aydinrest.controller;
 
 import com.fasterxml.jackson.annotation.JsonView;
+import com.sun.org.apache.xpath.internal.operations.Mult;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -11,6 +12,7 @@ import org.springframework.data.domain.Sort;
 import org.springframework.data.web.PageableDefault;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.multipart.MultipartFile;
 import vuetest.aydinrest.domain.Message;
 import vuetest.aydinrest.domain.User;
 import vuetest.aydinrest.domain.Views;
@@ -24,9 +26,10 @@ import vuetest.aydinrest.repo.UserSubRepo;
 import vuetest.aydinrest.service.MessageService;
 import vuetest.aydinrest.util.WsSender;
 
-
+import java.io.File;
 import java.io.IOException;
 import java.time.LocalDateTime;
+import java.util.UUID;
 import java.util.function.BiConsumer;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -39,6 +42,7 @@ public class MessageController {
     private static String IMAGE_PATTERN = "\\.(jpeg|jpg|gif|png)$";
     private static Pattern URL_REGEX=Pattern.compile(URL_PATTERN,Pattern.CASE_INSENSITIVE);
     private static Pattern IMG_REGEX=Pattern.compile(IMAGE_PATTERN,Pattern.CASE_INSENSITIVE);
+    public static String uploadPath = System.getProperty("user.dir")+"/uploads";
 
    private final MessageRepo messageRepo;
    private final CommentRepo commentRepo;
@@ -73,19 +77,39 @@ public class MessageController {
 
 
 
+@PostMapping
+@JsonView(Views.FullMessage.class)
+    public Message create(@RequestParam String text, @RequestParam(name = "file",required = false)MultipartFile file,@AuthenticationPrincipal User user) throws IOException {
+Message message=new Message();
+message.setText(text);
+        message.setCreationDate(LocalDateTime.now());
+        fillMeta(message);
+        message.setAuthor(user);
 
-    @PostMapping
-    @JsonView(Views.FullMessage.class)
-    public Message create(@RequestBody Message message, @AuthenticationPrincipal User user) throws IOException {
+    if (file != null && !file.getOriginalFilename().isEmpty()) {
+        File uploadDir = new File(uploadPath);
+        if (!uploadDir.exists()) {
+            uploadDir.mkdir();
+        }
+        String s = UUID.randomUUID().toString();
 
-message.setCreationDate(LocalDateTime.now());
-fillMeta(message);
-message.setAuthor(user);
+        String resultfilename = s + "." + file.getOriginalFilename();
+        file.transferTo(new File(uploadPath + "/" + resultfilename));
+        message.setFile(resultfilename);
+    }
         Message updatedMessage = messageRepo.save(message);
         wsSender.accept(EventType.CREATE,updatedMessage);
-        System.out.println("BEZDIM");
 
-        return updatedMessage;
+
+
+    return updatedMessage;
+
+
+
+
+
+
+
     }
 
     @PutMapping("{id}")
@@ -99,6 +123,7 @@ message.setAuthor(user);
 
         wsSender.accept(EventType.UPDATE,updatedMessage);
         return updatedMessage;
+
 
 //
 //
@@ -142,19 +167,34 @@ wsSender.accept(EventType.REMOVE,message);
         if(matcher.find()){
             String url = text.substring(matcher.start(), matcher.end());
             if(url.contains("youtube")) {
-                String subs = (url.substring(url.indexOf("=") + 1));
-                url = "https://youtu.be/" + subs;
                 System.out.println(url);
+                message.setType("youtube");
+
+                if (url.contains("&")){
+                    String subs = (url.substring(url.indexOf("=") + 1,url.indexOf("&")));
+                    url = "https://youtu.be/" + subs;
+
+                }
+                else {
+                    String subs = (url.substring(url.indexOf("=") + 1));
+                    url = "https://youtu.be/" + subs;
+
+
+                }
+
             }
             matcher = IMG_REGEX.matcher(url);
 
             message.setLink(url);
              if(matcher.find()){
 
-              message.setLinkCover(url);
+       message.setType("image");
+                 message.setLinkCover(url);
+
              }
-             else if(!url.contains("youtu")||!url.contains("youtube")){
-                 System.out.println("rabotaet");
+             else if(!url.contains("youtu")){
+
+               message.setType("href");
                  MetaDto meta = getMeta(url);
 
                  message.setLinkCover(meta.getCover());

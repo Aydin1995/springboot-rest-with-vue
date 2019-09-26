@@ -9,9 +9,12 @@ import {connect} from './util/ws'
 
 import 'vuetify/dist/vuetify.min.css'
 
+
+
 if(profile) {
     connect()
 }
+
 
 Vue.use(Vuetify)
 

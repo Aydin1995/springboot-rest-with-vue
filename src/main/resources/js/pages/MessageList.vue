@@ -5,6 +5,7 @@
         <message-row v-for="(message,index) in sortedMessages"
                      :key="`message.id-${index}`"
                      :message="message"
+                     :imageUrl="message.file"
                      :editMessage="editMessage" />
         <lazy-loader></lazy-loader>
     </v-layout>
